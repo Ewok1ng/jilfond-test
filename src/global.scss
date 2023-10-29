@@ -1,0 +1,24 @@
+// COLORS
+
+$color-black: #333333;
+$color-gray: #76787d;
+$color-red: #e31f24;
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: normal;
+}
+
+.app {
+    height: 100vh;
+}
